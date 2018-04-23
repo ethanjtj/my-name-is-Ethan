@@ -3,7 +3,7 @@
 <script src="script.js"></script>
 <!-- Content -->
 <h1>Welcome to my webpage</h1>
-<ul>&lt;li
+<ul>
 <li>name</li>
 <li>is bob</li>
 </ul>
